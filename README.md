@@ -1,6 +1,6 @@
 # lizzythepooch.com
 
-Live host and version history of [lizzythepooch.com](https://lizzythepooch.com) via [GitHub Pages](https://pages.github.com) behind [CloudFront](https://aws.amazon.com/cloudfront/)
+Version history of lizzythepooch.com](https://lizzythepooch.com) hosted on S3 behind CloudFront
 
 ## Contributing workflow
 
