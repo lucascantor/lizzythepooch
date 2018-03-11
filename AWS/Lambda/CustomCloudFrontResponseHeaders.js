@@ -26,7 +26,7 @@ exports.handler = (event, context, callback) => {
     }];
     response.headers['content-security-policy'] = [{
         key: 'Content-Security-Policy',
-        value: "default-src 'none'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self' https://i.imgur.com https://images.unsplash.com; script-src 'self' https://francesca-and-lucas.com; style-src 'self' https://fonts.googleapis.com",
+        value: "default-src 'none'; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; img-src 'self' https://i.imgur.com https://images.unsplash.com; script-src 'self' https://lizzythepooch.com; style-src 'self' https://fonts.googleapis.com",
     }];
 
     callback(null, response);
